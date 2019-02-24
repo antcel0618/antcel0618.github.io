@@ -13,16 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Droid Learner 
+email: antcel0618@gmail.com
+google_analytics: UA-58263313-4
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  An Android engineer that tries to learn everyday but discovers that Android has something up its 
+  sleeve that stomps all of the knowledge. Going to note all of the things that I learn so I can 
+  look back on what I have learned. Join me and let's get stomped and find the solutions.
+
+  Going to try to learn Flutter whenever.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://antcel0618.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: anthonyong03
+github_username:  antcel0618
 
 # Build settings
 markdown: kramdown
