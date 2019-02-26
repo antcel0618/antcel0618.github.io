@@ -3,6 +3,7 @@ layout: post
 title:  "Lifecycles and you, 2019 edition"
 date:   2019-02-24 16:00:00 -0500
 categories: android
+tags: [android, activity lifecycle, activity, developer, lifecycle]
 ---
 
 It's 2019, Android Architecture Component will keep the state of our activities and no need to know anything about lifcycle and what it does, right? Wrong 😩. But its suppose to take care of all of the problems that I have with lifecycle, correct? Why would the Android developers release something that will take the care of the problems that so many of us faced everyday and even brought some of us to our knees during interviews.
